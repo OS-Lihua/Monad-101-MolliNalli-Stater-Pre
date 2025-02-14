@@ -33,8 +33,9 @@ Monad 是一个第 1 层区块链，每秒 10,000 笔交易，1 秒出块时间�
   - 参考：[scaffold-eth/create-eth: Create you own Scaffold-ETH toolkit](https://github.com/scaffold-eth/create-eth)
 
 ### 详情
-UNIX/MAC/LINUX 安装  [Unix 环境配置.md](docs/Unix 环境配置.md) 
-WINDOWS 安装  [Windows 环境配置.md](docs/Windows 环境配置.md) 
+UNIX/MAC/LINUX 安装  [Unix 环境配置.md](docs/Unix 环境配置.md)
+
+WINDOWS 安装  [Windows 环境配置.md](docs/Windows 环境配置.md)
 
 ### 钱包配置
 钱包配置 [Windows 环境配置.md](docs/钱包配置.md) 
