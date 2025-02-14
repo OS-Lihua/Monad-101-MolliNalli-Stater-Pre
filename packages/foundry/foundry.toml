@@ -1,0 +1,26 @@
+[profile.default]
+src = 'contracts'
+out = 'out'
+libs = ['lib']
+via_ir = true
+fs_permissions = [{ access = "read-write", path = "./"}]
+
+
+[rpc_endpoints]
+default_network = "http://127.0.0.1:8545"
+localhost = "http://127.0.0.1:8545"
+
+[etherscan]
+
+
+[fmt]
+line_length = 120
+tab_width = 4
+quote_style = "double"
+bracket_spacing = true
+int_types = "long"
+
+
+
+
+# See more config options https://book.getfoundry.sh/reference/config/overview
