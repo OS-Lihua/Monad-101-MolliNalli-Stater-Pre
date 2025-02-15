@@ -6,7 +6,7 @@ Monad 是一个第 1 层区块链，每秒 10,000 笔交易，1 秒出块时间�
 
 **最终效果展示**
 
-![MolliNalli Game](https://image.yaco.email/MolliNalli Game.png)
+![MolliNalli Game](https://image.yaco.email/MolliNalli%20Game.png)
 
 ## 依赖安装
 
@@ -47,7 +47,7 @@ WINDOWS 安装  [Windows 环境配置.md](docs/Windows环境配置.md)
 1. 执行  `yarn -v`  `git --version` `node -v` 查看版本号于下载内容是否一致
 2. 参考 [scaffold-eth/create-eth: Create you own Scaffold-ETH toolkit](https://github.com/scaffold-eth/create-eth) 部署一个本地测试项目，框架选择`foundry` ，开启 3 个终端，依次执行，尝试查看 `yarn start` 能否会成功运行，进入`localhost:3000`，出现以下的界面。
 
-![Scaffold-ETH 2](https://image.yaco.email/Scaffold-ETH 2.png)
+![Scaffold-ETH 2](https://image.yaco.email/Scaffold-ETH%202.png)
 
 ## 享受 WorkShop
 
