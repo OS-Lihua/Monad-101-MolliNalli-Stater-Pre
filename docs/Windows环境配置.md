@@ -2,7 +2,7 @@
 
 
 
-**注意** : **windows 用户建议使用 WSL(Windows for linux) 可以不必要的问题，更多内容可参考 [Unix 环境配置.md](./Unix 环境配置.md) **
+**注意** : **windows 用户建议使用 WSL(Windows for linux) 可以不必要的问题，更多内容可参考 [Unix 环境配置.md](Unix环境配置.md) **
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 4. 下载 foundryup 包 
    1. 打开 `git-bash` 终端安装: `curl -L https://foundry.paradigm.xyz | bash`
-   2. **注意: 若 step 1 执行失败或者等待时间过长可取消，然后进入 `install_foundry_for windows ` 文件夹, 执行 `bash install_foundry.sh`, 继续操作即可**
+   2. **注意: 若 step 1 执行失败或者等待时间过长可取消，然后进入 `install_foundry` 文件夹, 执行 `bash install_foundry.sh`, 继续操作即可**
    3. 下载完成后，终端再输入如下命令进行forge等安装 : `foundryup`
 
    参考: https://learnblockchain.cn/docs/foundry/i18n/zh/getting-started/installation.html
