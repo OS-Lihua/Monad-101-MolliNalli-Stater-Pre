@@ -15,8 +15,8 @@
 ### 4. 下载 foundryup 包 
 
    1.  `curl -L https://foundry.paradigm.xyz | bash`
-      2.  **注意: 若 step 1 执行失败或者等待时间过长可取消，然后进入 `install_foundry ` 文件夹, 执行 `./install_foundry.sh`, 继续操作即可**
-             1.  下载完成后，终端再输入如下命令进行工具集安装 : `foundryup`
+   2.  **注意: 若 step 1 执行失败或者等待时间过长可取消，然后进入 `install_foundry ` 文件夹, 执行 `./install_foundry.sh`, 继续操作即可**
+   3.  下载完成后，终端再输入如下命令进行工具集安装 : `foundryup`
 
 
    参考: https://learnblockchain.cn/docs/foundry/i18n/zh/getting-started/installation.html

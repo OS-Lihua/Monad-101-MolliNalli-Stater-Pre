@@ -38,7 +38,7 @@ UNIX/MAC/LINUX 安装  [Unix 环境配置.md](docs/Unix环境配置.md)
 WINDOWS 安装  [Windows 环境配置.md](docs/Windows环境配置.md) 
 
 ### 钱包配置
-钱包配置 [Windows 环境配置.md](docs/钱包配置.md) 
+钱包配置 [钱包配置配置.md](docs/钱包配置.md) 
 
 ---
 
