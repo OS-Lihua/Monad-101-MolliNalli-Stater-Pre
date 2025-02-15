@@ -38,13 +38,13 @@ UNIX/MAC/LINUX 安装  [Unix 环境配置.md](docs/Unix环境配置.md)
 WINDOWS 安装  [Windows 环境配置.md](docs/Windows环境配置.md) 
 
 ### 钱包配置
-钱包配置 [钱包配置配置.md](docs/钱包配置.md) 
+  - [钱包配置.md](docs/钱包配置.md) 
 
 ---
 
 ## 测试依赖
 
-1. 执行  `yarn -v`  `git --version` `node -v` 查看版本号于下周内容是否一致
+1. 执行  `yarn -v`  `git --version` `node -v` 查看版本号于下载内容是否一致
 2. 参考 [scaffold-eth/create-eth: Create you own Scaffold-ETH toolkit](https://github.com/scaffold-eth/create-eth) 部署一个本地测试项目，框架选择`foundry` ，开启 3 个终端，依次执行，尝试查看 `yarn start` 能否会成功运行，进入`localhost:3000`，出现以下的界面。
 
 ![Scaffold-ETH 2](https://image.yaco.email/Scaffold-ETH 2.png)
