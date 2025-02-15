@@ -2,7 +2,7 @@
 
 
 
-**注意** : **windows 用户建议使用 WSL(Windows for linux) 可以不必要的问题，更多内容可参考 [Unix 环境配置.md](Unix环境配置.md) **
+**注意** : **windows 用户建议使用 WSL(Windows for linux) 可以避免很多问题，更多内容可参考 [Unix 环境配置.md](Unix环境配置.md) **
 
 ---
 
